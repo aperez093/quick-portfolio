@@ -5,7 +5,7 @@
 ### My Creative Works
 
 [Project 1 - Galaxy cat](/sample_page)
-<img src="Galaxy.jpg?raw=true"/>
+<img src="Galaxy.png?raw=true"/>
 
 ---
 [Project 2 - Mother's Day Poster](/pdf/sample_presentation.pdf)
