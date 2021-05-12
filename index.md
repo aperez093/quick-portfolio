@@ -12,8 +12,8 @@
 <img src="images/Mother's Day.png?raw=true"/>
 
 ---
-[Project 3 - Surrealism](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 - Favorite Celeb Project](http://example.com/)
+<img src="images/Screen Shot 2021-05-12 at 2.23.03 PM.png?raw=true"/>
 
 ---
 
